@@ -27,7 +27,7 @@ const toggleNavDrawer = () =>{
   return (
 <>
 
- <nav className='container mx-auto flex items-center justify-between py-4 px-6 '>
+ <nav className='container mx-auto flex items-center justify-between py-4 lg:px-6 px-1'>
     {/* Left Logo */}
     <div>
         <Link to="/" className="text-2xl font-medium">VastraCraft</Link>
