@@ -16,7 +16,7 @@ const UserLayout = () => {
       {/* This help to render the home page which is hero section page, which contains middle images */}
       <Outlet/>
 
-      {/* <Home/> * second way to render home page */}
+      {/* <Home/> * second way to render home page, but it is not a good practise */}
 
     </main>
 

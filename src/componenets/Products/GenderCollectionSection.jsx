@@ -35,7 +35,7 @@ const GenderCollectionSection = () => {
         <div className="relative flex-1">
           <img
             src={mensCollection}
-            alt="Men's Collection"
+            alt="Men's Collection"suppressContentEditableWarning
             className="w-full sm:h-[300px]  md:h-[700px] object-cover"
           />
 
